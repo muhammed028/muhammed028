@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @muhammed028
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+muhammed028/muhammed028 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+I am a student.
+I entered my information for activation.
+waiting for your confirmation
